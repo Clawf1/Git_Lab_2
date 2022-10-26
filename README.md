@@ -13,4 +13,4 @@
 
 ***Работу выполнил Петров Денис М3103***
 
-![This is an image](https://yandex.ru/images/search?from=tabbar&text=поставьте%205&pos=10&img_url=http%3A%2F%2Fmemesmix.net%2Fmedia%2Fcreated%2Fjos9j1.jpg&rpt=simage&lr=2)
+![This is an image](https://sun9-88.userapi.com/impg/H6nvuCfhbkAJDdf1aHtXTZEtRfT49_M9AXKkVQ/HCj-li4u-6M.jpg?size=604x452&quality=96&sign=718bd2f65520d607e1fb834187dd7cae&type=album)
